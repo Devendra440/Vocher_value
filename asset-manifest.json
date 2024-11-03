@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vocher_value/static/css/main.ca595f61.css",
+    "main.js": "/Vocher_value/static/js/main.07642d27.js",
+    "static/js/453.16bde50c.chunk.js": "/Vocher_value/static/js/453.16bde50c.chunk.js",
+    "index.html": "/Vocher_value/index.html",
+    "main.ca595f61.css.map": "/Vocher_value/static/css/main.ca595f61.css.map",
+    "main.07642d27.js.map": "/Vocher_value/static/js/main.07642d27.js.map",
+    "453.16bde50c.chunk.js.map": "/Vocher_value/static/js/453.16bde50c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca595f61.css",
+    "static/js/main.07642d27.js"
+  ]
+}
